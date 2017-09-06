@@ -26,6 +26,8 @@ Zach Blas, [im here to learn so :))))))](http://www.zachblas.info/works/im-here-
 
 [Bouncing ball](http://alpha.editor.p5js.org/chjno/sketches/BJfNMspFb)
 
+[map()](http://alpha.editor.p5js.org/chjno/sketches/ByEv9bAtb)
+
 **We briefly went over the following in class. You're not required to know these but they may be helpful to you.**
 
 [Javascript objects](http://alpha.editor.p5js.org/chjno/sketches/B1OuwRpYZ)
