@@ -30,7 +30,15 @@ Rafaël Rozendaal, [*Anti Social* @ Postmasters Gallery](http://www.postmastersa
 
 * [hello citizens 3](http://alpha.editor.p5js.org/chjno/sketches/SyGMnCIq-) - iterating an array of words with a for loop
 
+* [while vs. for loop](http://alpha.editor.p5js.org/chjno/sketches/BJWFBHwcW)
+
+* [if statement inside for loop](http://alpha.editor.p5js.org/chjno/sketches/Byn1Urwc-)
+
 * [mySpecialWaves](http://alpha.editor.p5js.org/chjno/sketches/BkXSYRLq-) - drawing and animating multiple shapes with a for loop
+
+\*We didn't go over this but just to show you what's possible:
+
+* [nested for loop](http://alpha.editor.p5js.org/chjno/sketches/r1svPFV5-)
 
 ### custom functions
 
