@@ -50,8 +50,9 @@ Zach Blas, [*im here to learn so :))))))*](http://www.zachblas.info/works/im-her
 
 ### Dan Shiffman's p5.js Video Tutorials
 
-Shiffman's [Intro to p5.js YouTube playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
-is probably the best online resource for learning p5.js/javascript. The videos linked below cover the material we went over in week 2, but you can find videos covering week 1's material in his playlist if you need to review.
+[Variables in p5.js (mouseX, mouseY)](https://youtu.be/RnS0YNuLfQQ)
+
+[Variables in p5.js (Make your own)](https://youtu.be/Bn_B3T_Vbxs)
 
 [Intro to conditional statements](https://www.youtube.com/watch?v=1Osb_iGDdjk&index=11&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
