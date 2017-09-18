@@ -62,4 +62,36 @@ We didn't go over this in class but I remember someone asked about how to draw a
 
 # Resources
 
-Coming soon
+### w3schools
+
+[Javascript Booleans](https://www.w3schools.com/js/js_booleans.asp)
+
+[Javascript For Loops](https://www.w3schools.com/js/js_loop_for.asp)
+
+[Javascript While Loop](https://www.w3schools.com/js/js_loop_while.asp)
+
+[Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)
+
+[Javascript Functions](https://www.w3schools.com/js/js_functions.asp)
+
+### Dan Shiffman's p5.js Video Tutorials
+
+[Boolean Variables](https://youtu.be/Rk-_syQluvc)
+
+[While and For Loops](https://youtu.be/cnRD9o6odjk)
+
+[What Is an Array?](https://youtu.be/VIQoUghHSxU)
+
+[Arrays and Loops](https://youtu.be/RXWO3mFuW-I)
+
+[Function Basics](https://youtu.be/wRHAitGzBrg)
+
+[Function Parameters and Arguments](https://youtu.be/zkc417YapfE)
+
+*Things we didn't cover that you may find useful
+
+[Nested For Loops](https://youtu.be/1c1_TMdf8b8)
+
+[Functions and Return](https://youtu.be/qRnUBiTJ66Y)
+
+[Functions Inside of Objects](https://youtu.be/QoFWCPVpWUE)
