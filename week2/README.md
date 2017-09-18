@@ -59,5 +59,4 @@ is probably the best online resource for learning p5.js/javascript. The videos l
 
 [else, else if, AND, OR](https://www.youtube.com/watch?v=r2S7j54I68c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=13)
 
-[Boolean variables](https://www.youtube.com/watch?v=Rk-_syQluvc&index=14&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
-*we didn't get to this in class
+[Transformations Pt. 1 (Translate, Rotate, Push/Pop)](https://youtu.be/o9sgjuh-CBM)
