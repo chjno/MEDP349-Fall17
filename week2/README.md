@@ -1,14 +1,14 @@
 # Notopia (random links)
 
-Richard Serra, ["Television Delivers People"](https://www.youtube.com/watch?v=nbvzbj4Nhtk&t=11s)
+Richard Serra, [*Television Delivers People*](https://www.youtube.com/watch?v=nbvzbj4Nhtk&t=11s)
 
-Tristan Harris, ["How Technology is Hijacking Your Mind — from a Magician and Google Design Ethicist"](https://journal.thriveglobal.com/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3)
+Tristan Harris, [*How Technology is Hijacking Your Mind — from a Magician and Google Design Ethicist*](https://journal.thriveglobal.com/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3)
 
 Julio Vazquez, [3D printed Nintendo Switch adapter for one-handed play](https://techcrunch.com/2017/08/28/a-3d-printed-adapter-makes-things-easier-to-play-the-nintendo-switch-one-handed/)
 
 Miranda July, [Somebody App](http://somebodyapp.com/), [Companion Short Film](https://www.youtube.com/watch?v=iz13HMsvb6o)
 
-Zach Blas, [im here to learn so :))))))](http://www.zachblas.info/works/im-here-to-learn-so/)
+Zach Blas, [*im here to learn so :))))))*](http://www.zachblas.info/works/im-here-to-learn-so/)
 
 # Inspiration
 
