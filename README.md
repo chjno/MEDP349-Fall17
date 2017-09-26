@@ -154,3 +154,9 @@ accommodations. For further information and assistance, please call 212-772-4857
 ### Week 14 (12/6) - Final Project Workshop
 
 ### Week 15 (12/13) - Final Projects Due
+
+<br>
+
+---
+
+This course was created with the help of resources shared by [Ricardo Miranda](http://pcomp.wikispaces.com/) and [Grayson Earle](http://graysonearle.com/edu/physcom/) of Hunter College as well as [Dan Shiffman](http://shiffman.net/) and [Tom Igoe](https://itp.nyu.edu/physcomp/) of NYU ITP.
