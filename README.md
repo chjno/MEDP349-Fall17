@@ -85,14 +85,12 @@ accommodations. For further information and assistance, please call 212-772-4857
 * Variables
   * mouseX
   * mouseY
-* map()
 * if, else, else if
   * Comparison operators
   * Booleans
 
 ### Week 3 (9/13) - Iteration
 * for/while loops
-* random()
 * Arrays
 * Functions
 
