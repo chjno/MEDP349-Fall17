@@ -21,3 +21,9 @@ Tristan Harris, [*How Technology is Hijacking Your Mind*](https://journal.thrive
 [Arduino Language Reference](https://www.arduino.cc/en/Reference/HomePage)
 
 Arduino Arrays [Reference](https://www.arduino.cc/en/Reference/Array), [Tutorial](https://www.arduino.cc/en/Tutorial/Arrays) - Notice the difference in creating arrays in Arduino vs. p5
+
+### Circuits
+
+[LED](https://www.arduino.cc/en/Tutorial/Blink)
+
+[Button](https://www.arduino.cc/en/Tutorial/Button)
