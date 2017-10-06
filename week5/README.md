@@ -2,6 +2,8 @@
 
 Tristan Harris, [*How Technology is Hijacking Your Mind*](https://journal.thriveglobal.com/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3)
 
+Paul Lewis, [*'Our minds can be hijacked': the tech insiders who fear a smartphone dystopia*](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia)
+
 # Resources
 
 [Slides from Class](https://docs.google.com/presentation/d/163e_kP68dArh46lrYxIXu8EG7lxqlyOzRZk8wVyvp5I/edit?usp=sharing)
