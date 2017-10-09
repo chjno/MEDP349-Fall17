@@ -107,17 +107,13 @@ accommodations. For further information and assistance, please call 212-772-4857
 
 ### Week 5 (10/4) - Arduino 101
 * Microcontrollers
-* Arduino
 * Digital vs. Analog
 * Arduino IDE
-  * Variable types
-  * Blink
-    * Digital Output
-* Sensors
-  * Digital & Analog Input
+* Digital Output/Input
 
-### Week 6 (10/11) - Analog Output
-* PWM
+### Week 6 (10/11) - Analog Input/Output
+* Voltage Dividers
+* Pulse Width Modulation
 * Arduino libraries
   * Servo
   * Tone
@@ -157,4 +153,4 @@ accommodations. For further information and assistance, please call 212-772-4857
 
 ---
 
-This course was created with the help of resources shared by [Ricardo Miranda](http://pcomp.wikispaces.com/) and [Grayson Earle](http://graysonearle.com/edu/physcom/) of Hunter College as well as [Dan Shiffman](http://shiffman.net/) and [Tom Igoe](https://itp.nyu.edu/physcomp/) of NYU ITP.
+This syllabus was created with the help of resources shared by [Ricardo Miranda](http://pcomp.wikispaces.com/) and [Grayson Earle](http://graysonearle.com/edu/physcom/) of Hunter College as well as [Dan Shiffman](http://shiffman.net/) and [Tom Igoe](https://itp.nyu.edu/physcomp/) of NYU ITP.
