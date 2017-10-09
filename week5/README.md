@@ -16,16 +16,30 @@ Paul Lewis, [*'Our minds can be hijacked': the tech insiders who fear a smartpho
 
 [Arduino Shields](https://learn.sparkfun.com/tutorials/arduino-shields)
 
-### Code
+### Arduino Reference
 
-[Arduino Variables](https://www.arduino.cc/en/Reference/VariableDeclaration) - Scroll to bottom for a list of variable types
+[Language Reference](https://www.arduino.cc/en/Reference/HomePage) - Arduino reference main page
 
-[Arduino Language Reference](https://www.arduino.cc/en/Reference/HomePage)
+[Digital Pins](https://www.arduino.cc/en/Tutorial/DigitalPins)
 
-Arduino Arrays [Reference](https://www.arduino.cc/en/Reference/Array), [Tutorial](https://www.arduino.cc/en/Tutorial/Arrays) - Notice the difference in creating arrays in Arduino vs. p5
+[Constants](https://www.arduino.cc/en/Reference/Constants) - HIGH/LOW, INPUT/OUTPUT, etc. 
 
-### Circuits
+[Variables](https://www.arduino.cc/en/Reference/VariableDeclaration) - Scroll to bottom for a list of variable types
 
-[LED](https://www.arduino.cc/en/Tutorial/Blink)
+[pinMode()](https://www.arduino.cc/en/Reference/PinMode)
+
+[digitalWrite()](https://www.arduino.cc/en/Reference/DigitalWrite)
+
+[digitalRead()](https://www.arduino.cc/en/Reference/DigitalRead)
+
+[Arrays](https://www.arduino.cc/en/Reference/Array) - Notice the difference in creating arrays in Arduino vs. p5
+
+### Arduino Tutorials
+
+[Uploading Code](https://www.arduino.cc/en/Guide/ArduinoUno)
+
+[Blink](https://www.arduino.cc/en/Tutorial/Blink)
 
 [Button](https://www.arduino.cc/en/Tutorial/Button)
+
+[Arrays](https://www.arduino.cc/en/Tutorial/Arrays) 
