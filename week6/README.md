@@ -43,3 +43,5 @@ Jeff Feddersen, [Voltage Dividers](https://vimeo.com/76442431) - Video
 [Servo Sweep](https://www.arduino.cc/en/Tutorial/Sweep)
 
 [Servo Knob](https://www.arduino.cc/en/Tutorial/Knob)
+
+[Smoothing Values](https://www.arduino.cc/en/Tutorial/Smoothing) - Briefly mentioned in class
