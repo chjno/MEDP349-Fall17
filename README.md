@@ -49,7 +49,7 @@ Participation means:
 
 This is a production heavy class. If you do not have your own computer, you will be able to access the labs outside of class. Room 478 also has computers with the relevant software installed.
 
-You must post assignments to the [class homework page](https://github.com/chjno/MEDP349-Fall17/wiki/Homework) by 9pm the night before class. Bring your work to class each week and be prepared to talk about it. For each week an assignment is late, 10 points will be deducted from its grade.
+You must post assignments to the [class homework page](https://github.com/chjno/MEDP349-Fall17/wiki/Homework) before class. Bring your work to class each week and be prepared to talk about it. For each week an assignment is late, 10 points will be deducted from its grade.
 
 Documentation of your work is required for all physical assignments. Refer to the [documentation guidelines](https://github.com/chjno/MEDP349-Fall17/wiki/Documentation-Guidelines).
 
