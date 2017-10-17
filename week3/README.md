@@ -4,14 +4,6 @@
 
 [Javascript keycodes](http://keycode.info/) (see [keyPressed()](http://alpha.editor.p5js.org/chjno/sketches/HyZwZEwcb) example)
 
-# Events
-
-Rafaël Rozendaal, [*Anti Social* @ Postmasters Gallery](http://www.postmastersart.com/)
-
-[Worlds Fair Nano](http://www.worldsfairusa.com/nano/ny/2017/)
-
-[Maker Faire](https://makerfaire.com/new-york/)
-
 # Code Examples
 
 ### boolean variables & p5 events
