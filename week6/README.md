@@ -12,6 +12,8 @@ Danny Rozin, [*Wooden Mirror*](https://vimeo.com/101408845)
 
 # Resources
 
+[Slides from Class](https://docs.google.com/presentation/d/1evplEKqcNcJj3SZOVrHDgVpHCVl6hb8K5fcStzAnLtU/edit?usp=sharing)
+
 [Voltage Dividers](https://learn.sparkfun.com/tutorials/voltage-dividers)
 
 Jeff Feddersen, [Voltage Dividers](https://vimeo.com/76442431) - Video
