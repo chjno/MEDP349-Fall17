@@ -4,6 +4,13 @@
 
 [p5.serialport.js](https://raw.githubusercontent.com/vanevery/p5.serialport/master/lib/p5.serialport.js)
 
+# p5.js Code Examples
+To be used with the Arduino code above:
+
+[inputs_x1](http://alpha.editor.p5js.org/chjno/sketches/rkZaE7HTZ)
+
+[inputs_x3](http://alpha.editor.p5js.org/chjno/sketches/r1P2B-BpW)
+
 # Resources
 
 [Slides from Class](https://docs.google.com/presentation/d/1Td9iWUQpDMKbmWOL0CTPO6KkzKVSJaQn7H4JB1djjAE/edit?usp=sharing)
