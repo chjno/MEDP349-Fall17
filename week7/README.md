@@ -14,8 +14,6 @@
 
 [ASCII Table](http://www.asciitable.com/)
 
-## Serial
-
 [Serial Communication](https://learn.sparkfun.com/tutorials/serial-communication)
 
 ### Arduino
