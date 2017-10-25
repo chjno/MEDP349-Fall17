@@ -30,7 +30,7 @@ Xuedi Chen & Pedro Oliveira, [*x.pose*](http://xc-xd.com/xpose/)
 
 [BFDA Tek-Tiles](http://bkaccelerator.com/tek-tiles/) - Pratt fashion incubator
 
-[Super-Releaser](http://superreleaser.com/)
+[Super-Releaser](http://superreleaser.com/) - Soft robots
 
 # Resources
 
