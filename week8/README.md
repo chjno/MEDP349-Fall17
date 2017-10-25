@@ -67,3 +67,19 @@ Xuedi Chen & Pedro Oliveira, [*x.pose*](http://xc-xd.com/xpose/)
 [Conductive Fabric](https://www.adafruit.com/product/1168)
 
 [Conductive Tape](https://learn.sparkfun.com/tutorials/the-great-big-guide-to-paper-circuits/conductive-tape-traces)
+
+# Random Examples
+
+## Javascript Classes
+
+[Mozilla Reference - Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+
+[Shiffman on Classes](https://www.youtube.com/watch?v=T-HGdc8L-7w)
+
+Here is a rough example of what Paige is looking to do.  
+
+To create many obstacles and detect whether your character collides with any one of them. The first example shows you how to create an Obstacle class, create one instance of it and make it appear and move on the screen. The second example shows you how to create 20 Obstacles using a for loop in setup(), and then using a for loop in draw() to make each of them appear and move. There is also a collide() function inside each Obstacle that detects whether the black ellipse is touching it.
+
+1. [One Obstacle](http://alpha.editor.p5js.org/chjno/sketches/B1sg1q0TW)
+
+2. [Many Obstacles](http://alpha.editor.p5js.org/chjno/sketches/rJlPxcC6Z)
