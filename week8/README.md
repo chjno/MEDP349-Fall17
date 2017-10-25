@@ -83,3 +83,7 @@ To create many obstacles and detect whether your character collides with any one
 1. [One Obstacle](http://alpha.editor.p5js.org/chjno/sketches/B1sg1q0TW)
 
 2. [Many Obstacles](http://alpha.editor.p5js.org/chjno/sketches/rJlPxcC6Z)
+
+## p5 Speech
+
+[Shiffman on Text-to-Speech with p5.Speech](https://www.youtube.com/watch?v=v0CHV33wDsI) - I haven't tested this yet
