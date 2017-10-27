@@ -127,18 +127,17 @@ accommodations. For further information and assistance, please call 212-772-4857
 * Solenoids
 * Relays & transistors
 
-### Week 9 (11/1) - Final Projects
+### Week 9 (11/1) - Serial Projects Due
+
+### Week 10 (11/8) - Final Projects
 * Final project discussion
 * Reading datasheets
 
-### Week 10 (11/8) - User Testing
+### Week 11 (11/15) - Final Project Playtesting
 
-### Week 11 (11/15) - Better Prototyping Part 1
+### Week 12 (11/22) - Better Prototyping Techniques
 * Soldering
 * Shields
-* PCBs
-
-### Week 12 (11/22) - Better Prototyping Part 2
 * Wiring
 * Connectors
 * Enclosures & panel mount components
