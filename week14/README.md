@@ -1,12 +1,16 @@
-# Random Links
+# Resources
 
-Aaron Parsekian, [*Soldering and Basic Electrical Connections*](https://docs.google.com/presentation/d/1UOkkmp-rG4KamoGg5B7QhcEgvLW795xyDUVsphElkrE/edit#slide=id.g1389c4ab8d_0_0)
+Ben Light, [Enclosures](https://itp.nyu.edu/fab/intro_fab/week-4-enclosures/)
 
 Blair Neal, [*Installation Up 4evr*](https://github.com/laserpilot/Installation_Up_4evr)
+
+Aaron Parsekian, [*Soldering and Basic Electrical Connections*](https://docs.google.com/presentation/d/1UOkkmp-rG4KamoGg5B7QhcEgvLW795xyDUVsphElkrE/edit#slide=id.g1389c4ab8d_0_0)
 
 [*Adafruit Guide To Excellent Soldering*](https://learn.adafruit.com/adafruit-guide-excellent-soldering/tools)
 
 [*Sparkfun How to Solder*](https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering)
+
+# For Fun
 
 [*NASA Hand Solder Training*](http://www.sal.wisc.edu/docs/Soldering%20Basics.pdf)
 
